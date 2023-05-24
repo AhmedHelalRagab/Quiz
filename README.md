@@ -1,5 +1,5 @@
 # Quiz
-##This is a Quiz application. The application allows users to answer multiple-choice questions and provides a scoring mechanism to evaluate their performance.
+## This is a Quiz application. The application allows users to answer multiple-choice questions and provides a scoring mechanism to evaluate their performance.
 ### To use this JavaScript code, follow these steps:
 1-Include the JavaScript file in your HTML document:
 <script src="quiz.js"></script>
