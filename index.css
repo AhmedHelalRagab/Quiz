@@ -48,6 +48,9 @@ body{
 .answers-area .answer [type='radio']:checked + label{
     color: #0075ff;
 }
+.answers-area .answer [type='radio']:hover{
+  cursor: pointer;
+}
 .submit-button{
     width: 100%;
     background-color: #0075ff;
@@ -58,6 +61,9 @@ body{
     margin: 20px auto;
     font-weight: bold;
     font-size: 18px;
+}
+.submit-button:hover{
+    cursor:pointer;
 }
 .bullets{
     display: flex;
