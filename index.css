@@ -63,7 +63,7 @@ body{
     font-size: 18px;
 }
 .submit-button:hover{
-    cursor:pointer;
+  cursor: pointer;
 }
 .bullets{
     display: flex;
